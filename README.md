@@ -323,6 +323,22 @@ Reference any icon by its raw GitHub URL:
 https://raw.githubusercontent.com/additiveforce/af-icons/main/[icon-name].svg
 ```
 
+**Via Python utility (`af_icons.py`):**
+
+```python
+from af_icons import get_icon, get_icons
+
+svg = get_icon("ai-chip")                    # fill="currentColor"
+svg = get_icon("ai-chip", color="#2563eb")   # explicit hex fill
+icons = get_icons(["ai-chip", "focus-group", "evp-framework"])
+```
+
+Requires `requests`. Run `pip install requests` if not already installed.
+
+---
+
+## Adding New Icons
+
 ## Adding New Icons
 
 1. Export SVG from Illustrator (24px artboard, solid shapes, no strokes)
