@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**302 icons** across 38 categories.
+**305 icons** across 38 categories.
 
 ---
 
@@ -150,6 +150,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `heart` | sentiment | like, passion, advocate, love, favourite |
 | `hierarchy-tree` | structure | org chart, family tree, reporting, structure, levels |
 | `hire` | recruitment | employ, appoint, onboard, recruit |
+| `hold` | action | grab, display, pinch, present, show |
 | `home` | navigation | house, start, dashboard, main |
 | `household` | people | home, family, resident, person |
 | `indeed` | brand-platform | job board, recruitment, jobs |
@@ -224,6 +225,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `power` | action | on, off, energy, activate |
 | `presentation` | content | slides, deck, chart, present |
 | `prism` | concept | refract, split, spectrum, divide |
+| `print` | action | export, download, output |
 | `process-flow` | process | workflow, steps, sequence, diagram |
 | `pyramid` | structure | hierarchy, maslow, levels, ranking, structure |
 | `question` | status | help, faq, unknown, circle |
@@ -265,6 +267,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `social-post-quote` | media | quote, blog, text post, content |
 | `social-post-testimonial` | media | testimonial, review, social proof, post |
 | `social-post-video` | media | video, reel, social, content |
+| `sound` | concept | audio, volume, listen, speaker |
 | `spotify` | brand-platform | music, audio, podcast, streaming |
 | `spotlight` | concept | event, focus, highlight, feature |
 | `spreadsheet` | content | table, document, data, grid |
