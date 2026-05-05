@@ -77,14 +77,14 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `clock-like` | planning | time, favorite, save time |
 | `clock` | planning | time, schedule, hour, duration |
 | `cloud` | technology | storage, upload, sync, server |
+| `close-circle-solid` | status | cancel, cross, remove, solid |
+| `close-circle` | status | cancel, cross, remove, outline |
+| `close` | status | cross, remove, cancel, no |
 | `cog-output` | process | settings, output, export, result |
 | `cogs` | process | settings, process, utility, system |
 | `compass` | navigation | direction, navigate, orient, find |
 | `concept` | ideation | lightbulb, creative, idea, pen, innovation |
 | `content-automation` | process | automate, content, workflow, scheduling |
-| `cross-circle-solid` | status | cancel, close, remove, solid |
-| `cross-circle` | status | cancel, close, remove, outline |
-| `cross` | status | close, remove, cancel, no |
 | `cv` | recruitment | resume, curriculum vitae, candidate |
 | `dashboard` | data | analytics, metrics, overview, charts |
 | `database` | technology | data, storage, server, records |
