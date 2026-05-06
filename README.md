@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**305 icons** across 38 categories.
+**306 icons** across 38 categories.
 
 ---
 
@@ -63,6 +63,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `chat-close` | communication | message, dismiss, end chat, cancel |
 | `chat-double` | communication | message, conversation, dialogue, two bubbles |
 | `chat` | communication | message, conversation, bubble, comment |
+| `check` | status | done, complete, tick, confirm, approve, yes, proceed |
 | `checklist` | action | tasks, list, tick, to-do |
 | `chevron-circle-down` | directional | expand, dropdown, circle |
 | `chevron-circle-left` | directional | back, previous, circle |
