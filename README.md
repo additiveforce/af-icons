@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**306 icons** across 38 categories.
+**3011 icons** across 38 categories.
 
 ---
 
@@ -229,6 +229,10 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `print` | action | export, download, output |
 | `process-flow` | process | workflow, steps, sequence, diagram |
 | `pyramid` | structure | hierarchy, maslow, levels, ranking, structure |
+| `quadrant-bottom-left` | abstract | matrix, position, box, square, group, segment, quarter, select |
+| `quadrant-bottom-right` | abstract | matrix, position, box, square, group, segment, quarter, select |
+| `quadrant-top-left` | abstract | matrix, position, box, square, group, segment, quarter, select |
+| `quadrant-top-right` | abstract | matrix, position, box, square, group, segment, quarter, select |
 | `question` | status | help, faq, unknown, circle |
 | `quote-sans` | content | quotation, sans-serif, pullquote, cite |
 | `quote-serif` | content | quotation, serif, pullquote, cite |
@@ -250,6 +254,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `role-model` | concept | star, best, aspire, goal, benchmark |
 | `rotate` | action | angle, turn, transform |
 | `scales` | concept | balance, fair, equity, weigh |
+| `scales-2` | concept | balance, fair, equity, weigh, angular |
 | `search-creative` | action | production, find, design, creative |
 | `search-organic` | media | seo, unpaid, google, find |
 | `search-paid` | media | ppc, sem, google ads, paid |
