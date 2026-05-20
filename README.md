@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**317 icons** across 38 categories.
+**329 icons** across 38 categories.
 
 ---
 
@@ -17,6 +17,18 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `ai-sparkle` | technology | magic, generative, ai |
 | `airline-seat` | industry-airline | flight, passenger, aviation |
 | `alert` | status | warning, caution, exclamation, danger |
+| `archetype-caregiver` | symbol | jung, persona, personality, branding |
+| `archetype-creator` | symbol | jung, persona, personality, branding |
+| `archetype-everyman` | symbol | jung, persona, personality, branding |
+| `archetype-explorer` | symbol | jung, persona, personality, branding |
+| `archetype-hero` | symbol | jung, persona, personality, branding |
+| `archetype-innocent` | symbol | jung, persona, personality, branding |
+| `archetype-jester` | symbol | jung, persona, personality, branding |
+| `archetype-lover` | symbol | jung, persona, personality, branding |
+| `archetype-magician` | symbol | jung, persona, personality, branding |
+| `archetype-outlaw` | symbol | jung, persona, personality, branding |
+| `archetype-ruler` | symbol | jung, persona, personality, branding |
+| `archetype-sage` | symbol | jung, persona, personality, branding |
 | `arrow-align-down` | directional | align, snap, bottom |
 | `arrow-align-left` | directional | align, snap, left |
 | `arrow-align-right` | directional | align, snap, right |
