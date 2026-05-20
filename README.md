@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**3011 icons** across 38 categories.
+**317 icons** across 38 categories.
 
 ---
 
@@ -170,6 +170,12 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `lightbulb` | ideation | idea, insight, innovation, bright |
 | `link` | action | url, connect, chain, hyperlink |
 | `linkedin-browser` | brand-platform | linkedin, web, browser, profile |
+| `linkedin-reaction-celebrarte` | brand-platform | linkedin, reaction |
+| `linkedin-reaction-funny` | brand-platform | linkedin, reaction |
+| `linkedin-reaction-insightful` | brand-platform | linkedin, reaction |
+| `linkedin-reaction-like` | brand-platform | linkedin, reaction |
+| `linkedin-reaction-love` | brand-platform | linkedin, reaction |
+| `linkedin-reaction-support` | brand-platform | linkedin, reaction |
 | `linkedin` | brand-social | social media, professional, network |
 | `location-pin-round` | location | place, map, position, grounded |
 | `location-pin-solid` | location | place, map, position, solid |
