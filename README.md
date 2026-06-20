@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**329 icons** across 38 categories.
+**331 icons** across 38 categories.
 
 ---
 
@@ -17,6 +17,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `ai-sparkle` | technology | magic, generative, ai |
 | `airline-seat` | industry-airline | flight, passenger, aviation |
 | `alert` | status | warning, caution, exclamation, danger |
+| `anchor` | concept | stability, foundation, grounded, mooring, fixed |
 | `archetype-caregiver` | symbol | jung, persona, personality, branding |
 | `archetype-creator` | symbol | jung, persona, personality, branding |
 | `archetype-everyman` | symbol | jung, persona, personality, branding |
@@ -126,6 +127,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `email-invite` | communication | invite, calendar, email, event |
 | `email-message` | communication | message, email, compose, send |
 | `email` | communication | mail, envelope, message, contact |
+| `equal` | symbol | equals, equality, parity, balance, same |
 | `evp-framework` | process | evp, employer value proposition, framework |
 | `evp-message-house` | process | message house, evp, framework, pillars |
 | `experience-map` | process | journey, touchpoints, candidate experience, map |
@@ -157,7 +159,6 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `grid` | layout | matrix, table, structure, rows |
 | `grow-plant` | concept | growth, thrive, organic, nurture |
 | `grow-rings` | concept | scale, expand, growth rings, levels |
-| `guides` | content | directions, instructions, how-to, resource |
 | `headphones` | communication | listen, audio, music, podcast |
 | `headset` | communication | support, call, airline, customer service |
 | `heart` | sentiment | like, passion, advocate, love, favourite |
@@ -174,6 +175,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `integrate` | process | connect, fit, tetris, combine, interlock |
 | `interview` | recruitment | question, chat, candidate, discussion |
 | `investment` | finance | return, grow, fund, capital |
+| `journey` | process | path, candidate journey, route, progression, map |
 | `kiosk` | concept | touchpoint, screen, self-service, terminal |
 | `laptop-search` | research | desk research, find, investigate, online |
 | `laptop` | technology | computer, device, portable, screen |
