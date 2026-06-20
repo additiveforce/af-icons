@@ -62,7 +62,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `browser` | technology | website, click, visit, web |
 | `budget-coins` | finance | money, savings, coins, financial |
 | `budget` | finance | money, cost, spend, financial |
-| `building` | workplace | office, employer, workplace, company |
+| `building` | work | office, employer, workplace, company |
 | `bullhorn` | communication | megaphone, announce, broadcast, campaign |
 | `calendar-budget` | planning | schedule, finance, date, cost |
 | `calendar-like` | planning | schedule, favorite, date, save |
