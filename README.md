@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**331 icons** across 38 categories.
+**335 icons** across 38 categories.
 
 ---
 
@@ -50,6 +50,8 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `asterisk` | symbol | star, footnote, required |
 | `atom` | science | molecule, element, science, research |
 | `ats` | recruitment | applicant tracking, database, candidate, system |
+| `bank` | finance | bank, money, institution, savings, deposit |
+| `battery` | technology | battery, power, charge, energy, level |
 | `bing` | brand-external | search, microsoft |
 | `binoculars` | action | search, view, scout, observe |
 | `blueprint` | process | plan, process, design, workflow |
@@ -315,11 +317,13 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `toolkit` | content | folder, resources, tools, collection |
 | `tools-workshop` | concept | workshop, craft, build, hands-on |
 | `tools` | concept | settings, utility, wrench, build |
+| `trash` | action | delete, remove, bin, discard, garbage |
 | `trend-up` | data | growth, increase, positive, arrow |
 | `trophy` | achievement | award, win, recognition, first place |
 | `twitter` | brand-social | bird, old twitter, tweet, social media |
 | `upload` | action | send, export, arrow up, submit |
 | `user` | people | profile, person, account, individual |
+| `user-circle` | people | profile, person, account, avatar, member |
 | `users` | people | group, team, audience, people |
 | `venn-3` | concept | overlap, three circles, combine, intersect |
 | `venn` | concept | overlap, two circles, combine, intersect |
