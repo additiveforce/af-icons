@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**335 icons** across 38 categories.
+**336 icons** across 38 categories.
 
 ---
 
@@ -196,6 +196,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `location-pin-round` | location | place, map, position, grounded |
 | `location-pin-solid` | location | place, map, position, solid |
 | `location-pin` | location | place, map, position, outline |
+| `lock` | concept | security, privacy, padlock, secure, locked, encryption |
 | `logo-af` | brand | additive force, af logo |
 | `magnet` | concept | attract, pull, engage, draw |
 | `matrix` | data | grid, quadrant, 2x2, framework |
