@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**336 icons** across 38 categories.
+**338 icons** across 38 categories.
 
 ---
 
@@ -60,6 +60,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `bounce` | process | redirect, ricochet, path |
 | `brain-circuit` | technology | cognition, human-computer, synthesis, machine learning, neural network |
 | `briefcase` | work | job, career, work, employment |
+| `brightness` | symbol | light, contrast, sun, display, exposure, luminance |
 | `brochure` | content | leaflet, flyer, map, collateral |
 | `browser` | technology | website, click, visit, web |
 | `budget-coins` | finance | money, savings, coins, financial |
@@ -141,6 +142,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `face-very-happy` | sentiment | delighted, positive, rating, very satisfied |
 | `face-very-sad` | sentiment | unhappy, very dissatisfied, negative, rating |
 | `facebook` | brand-social | social media, meta, fb |
+| `film-take` | media | camera, clapperboard, video, shoot, production, take |
 | `fingerprint` | identity | biometric, identity, unique, security |
 | `flight-control` | industry-airline | aviation, cockpit, radar |
 | `focus-group` | research | qualitative, group, discussion, fgd |
