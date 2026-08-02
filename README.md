@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**338 icons** across 38 categories.
+**340 icons** across 38 categories.
 
 ---
 
@@ -102,6 +102,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `compass` | navigation | direction, navigate, orient, find |
 | `concept` | ideation | lightbulb, creative, idea, pen, innovation |
 | `content-automation` | process | automate, content, workflow, scheduling |
+| `copy` | action | duplicate, clone, paste, replicate |
 | `cv` | recruitment | resume, curriculum vitae, candidate |
 | `dashboard` | data | analytics, metrics, overview, charts |
 | `database` | technology | data, storage, server, records |
@@ -130,6 +131,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `email-invite` | communication | invite, calendar, email, event |
 | `email-message` | communication | message, email, compose, send |
 | `email` | communication | mail, envelope, message, contact |
+| `embed` | technology | code, snippet, iframe, integrate, widget |
 | `equal` | symbol | equals, equality, parity, balance, same |
 | `evp-framework` | process | evp, employer value proposition, framework |
 | `evp-message-house` | process | message house, evp, framework, pillars |
