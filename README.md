@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**340 icons** across 38 categories.
+**346 icons** across 38 categories.
 
 ---
 
@@ -173,6 +173,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `hold` | action | grab, display, pinch, present, show |
 | `home` | navigation | house, start, dashboard, main |
 | `household` | people | home, family, resident, person |
+| `image` | media | photo, picture, landscape, gallery |
 | `indeed` | brand-platform | job board, recruitment, jobs |
 | `info-circle-solid` | status | information, help, detail, solid |
 | `info-circle` | status | information, help, detail, outline |
@@ -203,6 +204,8 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `lock` | concept | security, privacy, padlock, secure, locked, encryption |
 | `logo-af` | brand | additive force, af logo |
 | `magnet` | concept | attract, pull, engage, draw |
+| `mail` | communication | email, envelope, letter, message, inbox |
+| `map-arrow` | navigation | direction, compass, pointer, bearing, navigate |
 | `matrix` | data | grid, quadrant, 2x2, framework |
 | `measure-tape` | data | measure, size, scale, dimension |
 | `media-apply-click` | media | apply, click, job ad, cta |
@@ -256,6 +259,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `print` | action | export, download, output |
 | `process-flow` | process | workflow, steps, sequence, diagram |
 | `pyramid` | structure | hierarchy, maslow, levels, ranking, structure |
+| `qr-scan` | technology | qr code, scan, barcode, mobile scan |
 | `quadrant-bottom-left` | abstract | matrix, position, box, square, group, segment, quarter, select |
 | `quadrant-bottom-right` | abstract | matrix, position, box, square, group, segment, quarter, select |
 | `quadrant-top-left` | abstract | matrix, position, box, square, group, segment, quarter, select |
@@ -311,6 +315,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `tag` | action | label, category, price, mark |
 | `takeaway` | concept | food, delivery, bag, order |
 | `target` | concept | goal, ambition, aim, bullseye |
+| `target-crosshair` | action | aim, precision, focus, scope, accuracy |
 | `think` | concept | brain, cognition, mindset, idea |
 | `thumb-down` | sentiment | dislike, negative, bad, disapprove |
 | `thumb-up` | sentiment | like, positive, good, approve |
@@ -326,6 +331,7 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `trend-up` | data | growth, increase, positive, arrow |
 | `trophy` | achievement | award, win, recognition, first place |
 | `twitter` | brand-social | bird, old twitter, tweet, social media |
+| `unlock` | action | open, access, unsecure, padlock, permission |
 | `upload` | action | send, export, arrow up, submit |
 | `user` | people | profile, person, account, individual |
 | `user-circle` | people | profile, person, account, avatar, member |
