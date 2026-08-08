@@ -2,7 +2,7 @@
 
 Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `currentColor` fill.
 
-**346 icons** across 38 categories.
+**345 icons** across 38 categories.
 
 ---
 
@@ -130,7 +130,6 @@ Custom SVG icon library for Additive Force. All icons are solid shape, 24px, `cu
 | `ear` | research | listen, hear, feedback, qualitative |
 | `email-invite` | communication | invite, calendar, email, event |
 | `email-message` | communication | message, email, compose, send |
-| `email` | communication | mail, envelope, message, contact |
 | `embed` | technology | code, snippet, iframe, integrate, widget |
 | `equal` | symbol | equals, equality, parity, balance, same |
 | `evp-framework` | process | evp, employer value proposition, framework |
